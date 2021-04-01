@@ -11,10 +11,12 @@
     "vue-router": "^3.5.1"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
     "@vue/cli-plugin-router": "^4.5.12",
     "@vue/cli-service": "^4.5.12",
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
+    "tailwindcss": "^2.0.4",
     "vue-template-compiler": "^2.6.12"
   },
   "browserslist": [
