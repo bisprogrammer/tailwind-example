@@ -1,7 +1,7 @@
 <template>
     <h2 class="flex items-center justify-center">
         <span class="rhombus"></span>
-        <span class="mx-4 text-4xl font-bold">{{title}}</span>
+        <span class="mx-4 text-2xl sm:text-4xl font-bold">{{title}}</span>
         <span class="rhombus"></span>
     </h2>
 </template>
